@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/nitish/Desktop/apurva projects/rtsobel-master/realtime-sobel/ml505top.ncd
+OUTFILE=/home/nitish/Desktop/apurva projects/rtsobel-master/realtime-sobel/ml505top.bit
+FAMILY=Virtex5
+PART=xc5vlx110t-1ff1136
+WORKINGDIR=/home/nitish/Desktop/apurva projects/rtsobel-master/realtime-sobel
+LICENSE=ISE
+USER_INFO=__0_0_0
